@@ -2,7 +2,7 @@
 
 Simple and elegant pie chart for Swift UI
 
-![SwiftUI Pie Chart](./Resources/demo.gif "SwiftUI Pie Chart")
+![SwiftUI Pie Chart #2](./Resources/demo.gif "SwiftUI Pie Chart")
 
 ## Usage
 
